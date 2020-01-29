@@ -1,0 +1,15 @@
+.textColor {
+    color: blueviolet;
+}
+
+.face {
+    height: 250px;
+    width: 250px;
+    object-fit: cover;
+    border-radius: 100%;
+    margin-top: 15px;
+}
+
+.align-middle {
+    margin-top: 90px;
+}
