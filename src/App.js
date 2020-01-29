@@ -16,9 +16,11 @@ class App extends Component {
 
   render() {
     return (
-      <div className="App">
-        <Header />
-        <Experience />
+      <div className="App align-middle">
+        <h3>Website currently under construction.</h3>
+        <div>Please refer to my <a href="https://github.com/dylandavispc">github</a> for work.</div>
+        {/* <Header />
+        <Experience /> */}
       </div>
     );
   };
