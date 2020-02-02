@@ -154,7 +154,7 @@ let resumeData = {
       {
         "name":"Band-Aide",
         "description":"mobileapp",
-        "imgurl":"images/portfolio/bandaid.png",
+        "imgurl":"images/portfolio/bandaid.jpg",
         "url" : "https://github.com/dylandavispc/ChrisConnorLLoydDylan"
       },
       {
