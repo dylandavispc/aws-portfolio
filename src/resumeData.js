@@ -142,13 +142,13 @@ let resumeData = {
       {
         "name":"Chuana",
         "description":"test bitchhh",
-        "imgurl":"images/portfolio/chuana.png",
+        "imgurl":"images/portfolio/chuana.jpg",
         "url" : "https://github.com/dylandavispc/chuwana-prototype"
       },
       {
         "name":"Taste Buds",
         "description":"mobileapp",
-        "imgurl":"images/portfolio/tastebuds.png",
+        "imgurl":"images/portfolio/tastebuds.jpg",
         "url" : "https://github.com/dylandavispc/taste-buds-roulette"
       },
       {
@@ -160,31 +160,31 @@ let resumeData = {
       {
         "name":"Don't Kill the Dill!",
         "description":"mobileapp",
-        "imgurl":"images/portfolio/killdill.png",
+        "imgurl":"images/portfolio/killdill.jpg",
         "url" : "https://github.com/dylandavispc/word-guess-game"
       },
       {
         "name":"Pie Chart using CanvasJS",
         "description":"mobileapp",
-        "imgurl":"images/portfolio/pie.png",
+        "imgurl":"images/portfolio/pie.jpg",
         "url" : "https://github.com/dylandavispc/fullstack-challenge"
       },
       {
         "name":"Train Tracker",
         "description":"mobileapp",
-        "imgurl":"images/portfolio/train.png",
+        "imgurl":"images/portfolio/train.jpg",
         "url" : "https://github.com/dylandavispc/trainhw"
       },
       {
         "name":"Liri-Node Media Browser",
         "description":"mobileapp",
-        "imgurl":"images/portfolio/liri.png",
+        "imgurl":"images/portfolio/liri.jpg",
         "url" : "https://github.com/dylandavispc/liri-node-app"
       },
       {
         "name":"Zelda Rupee Game",
         "description":"mobileapp",
-        "imgurl":"images/portfolio/zelda.png",
+        "imgurl":"images/portfolio/zelda.jpg",
         "url" : "https://github.com/dylandavispc/unit-4-game"
       },
     ],
