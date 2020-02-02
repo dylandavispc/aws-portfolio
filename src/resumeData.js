@@ -206,10 +206,6 @@ let resumeData = {
         "name":"Christopher Hale, Colleague and Developer at Chuana LLC."
       },
       {
-        "description":"Who's Dylan?",
-        "name":"Jason Portilla, TA at UCF Coding Bootcamp"
-      },
-      {
         "description":"Dylan was definitely one of my better students at the coding bootcamp. He will make a fine addition to any development team.",
         "name":"Zachary Robin, TA at UCF Coding Bootcamp"
       },
