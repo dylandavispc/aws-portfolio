@@ -17,8 +17,9 @@ export default class Porfolio extends Component {
                       <img alt="Project" src={`${item.imgurl}`} className="item-img"/>
                       <div className="overlay">
                         <div className="portfolio-item-meta">
-                          <h5>{item.name}</h5>
-                          <p>{item.description}</p>
+                          <h5 className="work-name">{item.name}</h5>
+                          <p className="work-tech">( {item.tech} )</p>
+                          <p className="work-description">{item.description}</p>
                         </div>
                       </div>
                     

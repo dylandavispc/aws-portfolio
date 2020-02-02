@@ -141,49 +141,57 @@ let resumeData = {
     "portfolio":[
       {
         "name":"Chuana",
-        "description":"test bitchhh",
+        "description":'Designed the code and architecture for base operations of a startup store-to-store ecommerce website.  Lead development, UX, security, API integration, database, payments, and quality assurance.  Utilized Agile methodologies to ensure proper timeliness and communication across the various teams enlisted amongst the nation.',
+        "tech":"Express/Node, React, MongoDB, MySQL, Passport, bCrypt, Bootstrap MDBReact",
         "imgurl":"images/portfolio/chuana.jpg",
         "url" : "https://github.com/dylandavispc/chuwana-prototype"
       },
       {
         "name":"Taste Buds",
-        "description":"mobileapp",
+        "description":"A social media / dining-roulette app where users create an account, add friends, and spin the roulette wheel to receive a randomly selected restaurant to eat at.  Within two weeks, our team completed this full stack application geared by foundations of the Agile methodologies using sprints, daily stand-up meetings, and test-orientated development.  Received “best project in class” during the bootcamp for the accomplishment of developing a “one-to-many” database relational system.",
+        "tech":"Express/Node, MySQL, Sequelize, Bootstrap Heroku Deployment, Google Maps API",
         "imgurl":"images/portfolio/tastebuds.jpg",
         "url" : "https://github.com/dylandavispc/taste-buds-roulette"
       },
       {
         "name":"Band-Aide",
-        "description":"mobileapp",
+        "description":"All-in-one artist search engine that enables users to search for the entirety of an artist’s media outlets by connecting to the various API’s of YouTube, iTunes, Ticket Master.  Heavy documentation research let to a thorough understanding of various types of API’s and the ability to finish early and focus on creating a polished UI.",
+        "tech":"HTML, CSS, jQuery, Ajax, iTunes API, Youtube API, Ticket Master API, Songkick API",
         "imgurl":"images/portfolio/bandaid.jpg",
         "url" : "https://github.com/dylandavispc/ChrisConnorLLoydDylan"
       },
       {
         "name":"Don't Kill the Dill!",
-        "description":"mobileapp",
+        "description":"An intense 'Word Guess' game where the life of Dylan is in your hands!  Independently engineered game logic and design through minimal JavaScript frameworks.",
+        "tech":"JavaScript, HTML, CSS",
         "imgurl":"images/portfolio/killdill.jpg",
         "url" : "https://github.com/dylandavispc/word-guess-game"
       },
       {
         "name":"Pie Chart using CanvasJS",
-        "description":"mobileapp",
+        "description":"A wonderfully colored Full Stack statistics application focused on team contribution.  Connected to Heroku's online JawsDB database. As users enter team information and participation percentage, the colorful donut chart dynamically displays the relational data.",
+        "tech":"JavaScript, Express/Node, MySQL, React, CanvasJS, Heroku Deployment",
         "imgurl":"images/portfolio/pie.jpg",
         "url" : "https://github.com/dylandavispc/fullstack-challenge"
       },
       {
         "name":"Train Tracker",
-        "description":"mobileapp",
+        "description":"Utilizing the momentJS API, users are able to create custom trains with variables of Name, Destination, and Frequency.",
+        "tech":"JavaScript, MomentJS, Firebase, jQuery",
         "imgurl":"images/portfolio/train.jpg",
         "url" : "https://github.com/dylandavispc/trainhw"
       },
       {
         "name":"Liri-Node Media Browser",
-        "description":"mobileapp",
+        "description":"Whether you are into movies, streaming music, or live music the Liri-Node Media Browser is for you!  A completely back-end application that demonstrates the capabilities of API utilization.  Continue to the GitHub page to clone and follow instructions.",
+        "tech":"JavaScript, Node, Axios, OMDB API, Bands in Town API, MomentJS, DotEnv",
         "imgurl":"images/portfolio/liri.jpg",
         "url" : "https://github.com/dylandavispc/liri-node-app"
       },
       {
         "name":"Zelda Rupee Game",
-        "description":"mobileapp",
+        "description":"Can you match the Clock Town Banker's mystery Rupee??  A simple app made from HTML, CSS, and JS algorithms where you must add 4 randomly priced Rupees without exceeding the Banker's!.",
+        "tech":"HTML, CSS, JavaScript, jQuery",
         "imgurl":"images/portfolio/zelda.jpg",
         "url" : "https://github.com/dylandavispc/unit-4-game"
       },

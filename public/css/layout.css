@@ -429,6 +429,21 @@ svg {
    padding-top: 90px;
    padding-bottom: 60px;
 }
+.work-name {
+   font-size: 24px!important;
+   margin-top: 20px;
+}
+.work-tech {
+   font-size: 18px!important;
+   color: mediumturquoise!important;
+   line-height: 24px!important;
+   margin-top: 10px;
+}
+.work-description {
+   font-size: 18px!important;
+   line-height: 24px!important;
+   margin-top: 10px;
+}
 #portfolio h1 {
    font: 15px/24px 'opensans-semibold', sans-serif;
    text-transform: uppercase;
@@ -524,6 +539,7 @@ svg {
    color: #c6c7c7;
    margin-bottom: 0;
 }
+
 
 /* on hover */
 .portfolio-item:hover .overlay {
