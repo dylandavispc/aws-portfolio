@@ -140,62 +140,74 @@ let resumeData = {
     ],
     "portfolio":[
       {
-        "name":"project1",
+        "name":"Chuana",
         "description":"mobileapp",
-        "imgurl":"images/portfolio/coffee.jpg",
-        "url" : ""
+        "imgurl":"images/portfolio/chuana.png",
+        "url" : "https://github.com/dylandavispc/chuwana-prototype"
       },
       {
-        "name":"project2",
+        "name":"Taste Buds",
         "description":"mobileapp",
-        "imgurl":"images/portfolio/coffee.jpg",
-        "url" : ""
+        "imgurl":"images/portfolio/tastebuds.png",
+        "url" : "https://github.com/dylandavispc/taste-buds-roulette"
       },
       {
-        "name":"project2",
+        "name":"Band-Aide",
         "description":"mobileapp",
-        "imgurl":"images/portfolio/coffee.jpg",
-        "url" : ""
+        "imgurl":"images/portfolio/bandaid.png",
+        "url" : "https://github.com/dylandavispc/ChrisConnorLLoydDylan"
       },
       {
-        "name":"project4",
+        "name":"Don't Kill the Dill!",
         "description":"mobileapp",
-        "imgurl":"images/portfolio/coffee.jpg",
-        "url" : ""
+        "imgurl":"images/portfolio/killdill.png",
+        "url" : "https://github.com/dylandavispc/word-guess-game"
       },
       {
-        "name":"project4",
+        "name":"Pie Chart using CanvasJS",
         "description":"mobileapp",
-        "imgurl":"images/portfolio/coffee.jpg",
-        "url" : ""
+        "imgurl":"images/portfolio/pie.png",
+        "url" : "https://github.com/dylandavispc/fullstack-challenge"
       },
       {
-        "name":"project4",
+        "name":"Train Tracker",
         "description":"mobileapp",
-        "imgurl":"images/portfolio/coffee.jpg",
-        "url" : ""
+        "imgurl":"images/portfolio/train.png",
+        "url" : "https://github.com/dylandavispc/trainhw"
       },
       {
-        "name":"project4",
+        "name":"Liri-Node Media Browser",
         "description":"mobileapp",
-        "imgurl":"images/portfolio/coffee.jpg",
-        "url" : ""
+        "imgurl":"images/portfolio/liri.png",
+        "url" : "https://github.com/dylandavispc/liri-node-app"
       },
       {
-        "name":"project4",
+        "name":"Zelda Rupee Game",
         "description":"mobileapp",
-        "imgurl":"images/portfolio/coffee.jpg",
-        "url" : ""
+        "imgurl":"images/portfolio/zelda.png",
+        "url" : "https://github.com/dylandavispc/unit-4-game"
       },
     ],
     "testimonials":[
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"I taught Dylan full stack Javascript development at the UCF Coding Bootcamp. During his time as a student, Dylan consistently put in extra effort on his assignments to the point that he would be recognized by myself and my TAs. I consider him among the top of my students of that cohort and he certainly gained the skills necessary to be an asset to a development team. His skill and his good attitude will take him far in software development.",
+        "name":"Micheal Pascuzzi, Instructor at UCF Coding Bootcamp"
       },
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"Dylan is the creative and free flowing part to any project he is involved in. Coding skills are great but his people skills are even better. He really gives 110% of himself in everything he does.",
+        "name":"Christopher Hale, Colleague and Developer at Chuana LLC."
+      },
+      {
+        "description":"Who's Dylan?",
+        "name":"Jason Portilla, TA at UCF Coding Bootcamp"
+      },
+      {
+        "description":"Dylan was definitely one of my better students at the coding bootcamp. He will make a fine addition to any development team.",
+        "name":"Zachary Robin, TA at UCF Coding Bootcamp"
+      },
+      {
+        "description":"In these hard times we need a strong leader to provide the confidence and passion for the average-worker. I believe, that Dylan is this leader.",
+        "name":"George Washington, 1st President of the United States"
       }
     ]
   }
