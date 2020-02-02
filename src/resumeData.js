@@ -141,7 +141,7 @@ let resumeData = {
     "portfolio":[
       {
         "name":"Chuana",
-        "description":"mobileapp",
+        "description":"test bitchhh",
         "imgurl":"images/portfolio/chuana.png",
         "url" : "https://github.com/dylandavispc/chuwana-prototype"
       },
