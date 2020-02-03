@@ -377,9 +377,11 @@
 
 }
 
-
-
-
+@media only screen and (max-width: 490px) {
+   #about .profile-pic {
+      margin-left: 0px;
+   }
+}
 
 
 

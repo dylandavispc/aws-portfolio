@@ -835,11 +835,10 @@ call-to-action .button {
 .contactList {
    color: white;
    font-size: 20px;
-   margin-left: 20px;
 }
 
 .contactLead {
-   padding-left: 48px;
+   /* padding-left: 48px; */
 }
 
 #contact {
