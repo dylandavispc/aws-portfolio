@@ -139,13 +139,13 @@ let resumeData = {
       },
     ],
     "portfolio":[
-      // {
-      //   "name":"Chuana",
-      //   "description":'Designed the code and architecture for base operations of a startup store-to-store ecommerce website.  Lead development, UX, security, API integration, database, payments, and quality assurance.  Utilized Agile methodologies to ensure proper timeliness and communication across the various teams enlisted amongst the nation.',
-      //   "tech":"Express/Node, React, MongoDB, MySQL, Passport, bCrypt, Bootstrap MDBReact",
-      //   "imgurl":"images/portfolio/chuana.jpg",
-      //   "url" : "https://github.com/dylandavispc/chuwana-prototype"
-      // },
+      {
+        "name":"Chuana",
+        "description":'Designed the code and architecture for base operations of a startup store-to-store ecommerce website.  Lead development, UX, security, API integration, database, payments, and quality assurance.  Utilized Agile methodologies to ensure proper timeliness and communication across the various teams enlisted amongst the nation.',
+        "tech":"Express/Node, React, MongoDB, MySQL, Passport, bCrypt, Bootstrap MDBReact",
+        "imgurl":"images/portfolio/chuana.jpg",
+        "url" : "https://github.com/dylandavispc/chuwana-prototype"
+      },
       {
         "name":"Taste Buds",
         "description":"A social media / dining-roulette app where users create an account, add friends, and spin the roulette wheel to receive a randomly selected restaurant to eat at.  Within two weeks, our team completed this full stack application geared by foundations of the Agile methodologies using sprints, daily stand-up meetings, and test-orientated development.  Received “best project in class” during the bootcamp for the accomplishment of developing a “one-to-many” database relational system.",
