@@ -143,7 +143,7 @@ let resumeData = {
         "name":"Chuana",
         "description":'Designed the code and architecture for base operations of a startup store-to-store ecommerce website.  Lead development, UX, security, API integration, database, payments, and quality assurance.  Utilized Agile methodologies to ensure proper timeliness and communication across the various teams enlisted amongst the nation.',
         "tech":"Express/Node, React, MongoDB, MySQL, Passport, bCrypt, Bootstrap, MDBReact",
-        "imgurl":"images/portfolio/background.png",
+        "imgurl":"images/portfolio/background.jpg",
         "url" : "https://github.com/dylandavispc/chuwana-prototype"
       },
       {
