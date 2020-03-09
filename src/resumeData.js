@@ -140,6 +140,13 @@ let resumeData = {
     ],
     "portfolio":[
       {
+        "name":"AR/VR App",
+        "description":'Crafted a virual-reality enviroment that demonstrates abilities to craft Entities and Scenes using the A-Frame VR/AR framework within React.js.  Designed a landscape that is complamented by "retro" effects and a low-poly sphere that both changes color and plays vaporwave music when clicked.  Dudee...',
+        "tech":"A-Frame, React",
+        "imgurl":"images/portfolio/vr.jpg",
+        "url" : "https://github.com/dylandavispc/aframe-tut"
+      },
+      {
         "name":"Chuana",
         "description":'Designed the code and architecture for base operations of a startup store-to-store ecommerce website.  Lead development, UX, security, API integration, database, payments, and quality assurance.  Utilized Agile methodologies to ensure proper timeliness and communication across the various teams enlisted amongst the nation.',
         "tech":"Express/Node, React, MongoDB, MySQL, Passport, bCrypt, Bootstrap, MDBReact",
